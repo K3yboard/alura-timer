@@ -1,0 +1,22 @@
+{
+  "name": "alura-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K3yboard/alura-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K3yboard/alura-timer/issues"
+  },
+  "homepage": "https://github.com/K3yboard/alura-timer#readme",
+  "dependencies": {
+    "electron": "^1.6.1"
+  }
+}
