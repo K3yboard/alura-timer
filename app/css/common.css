@@ -7,3 +7,12 @@
 h1 {
   font-size: 32px;
 }
+
+.container-conteudo {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.container-conteudo p {
+  margin: 5px 0;
+}
