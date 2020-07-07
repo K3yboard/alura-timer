@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/K3yboard/alura-timer#readme",
   "dependencies": {
-    "electron": "^1.6.1"
+    "electron": "^9.1.0"
   }
 }
